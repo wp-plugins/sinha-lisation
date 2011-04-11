@@ -1,17 +1,17 @@
 <?php
 
 /**
- * @package sinha-lisation
+ * @package sinhalisation
  * @version 1.0.5
  */
 
 /*
 Plugin Name: Sinha-lisa-lion (Sinhala Transliterator)
-Plugin URI: http://darray.wordpress.com/2011/04/08/project-sinha-lisation/
+Plugin URI: http://projectsinhalisation.wordpress.com
 Description: Converts to Sinahala unicode from Sinahala phenoic
 Author: Darshana Gunawardana
 Version: 1.0.1
-Author URI: http://darray.wordpress.com
+Author URI: http://projectsinhalisation.wordpress.com
 License: GPLv2
 */
 
@@ -34,7 +34,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 ///////////////////////////////////////////////////////////////////////////////
 /*
 This file contains wordpress pluging definition and the communication function
-which connects the wordpress with the sinha-lisation handler. 
+which connects the wordpress with the sinhalisation handler. 
 */
 ///////////////////////////////////////////////////////////////////////////////
 

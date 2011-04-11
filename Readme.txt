@@ -19,9 +19,6 @@ By using this a user can type in Sinhala without knowing Wijesekara or any other
 This is how to install the plugin 'Project-Sinha-lisation' and get it working.
 
 
-1. Upload the folder `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Click the download button (on the right in red) to download the zip package
+1. Unzip the downloaded package and upload the `sinha-lisation` folder into the `wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-
-Click the download button (on the right in red) to download the zip package
-Unzip the downloaded package and upload the `Project-Sinha-lisation` folder into the `wp-content/plugins/` directory
-Activate the plugin through the 'Plugins' menu in WordPress
